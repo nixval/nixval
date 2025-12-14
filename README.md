@@ -13,7 +13,15 @@ linux, nix, tooling, ricing, and modern web ui with reproducible environments.
 <img src="https://skillicons.dev/icons?i=astro,svelte,ts,tailwind,bun" />
 </p>
 
+![productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nixval&theme=tokyonight&utcOffset=7)
 ![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nixval&theme=tokyonight)
+<!-- ![commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nixval&theme=tokyonight) -->
+<!--
+![repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nixval&theme=tokyonight)
+-->
+<!--
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nixval&theme=tokyonight)
+-->
 
 ## coding activity
 <!--START_SECTION:waka-->
